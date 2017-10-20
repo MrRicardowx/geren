@@ -1,0 +1,26 @@
+.design>div span{
+	display: block;
+	padding:10px 30px 30px 30px;
+	color: #666666;
+	text-indent: 2em;
+}
+.myself{
+	font-size: 21px;
+	font-weight:300;
+	padding-bottom: 12px;
+}
+.woshi,.benren{
+	text-indent: 2em;
+	color:#666666;
+	font-size: 15px;
+}
+.benren{
+	padding-bottom: 12px;
+}
+.weare{
+	padding-bottom: 12px;
+}
+
+.pro a{
+	color:#FFFFFF;
+}
